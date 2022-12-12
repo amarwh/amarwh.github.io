@@ -10,7 +10,7 @@ body {
 }
 
 	body.active-checking {
-		background-color: #5e24db;
+		background-color: #8160c8;
 		transition: background-color 1.5s ease;
 	}
 
